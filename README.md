@@ -1,2 +1,2 @@
-# CPP_Stuff
+# CPP_Programs
 Repo of my C++ programs.
