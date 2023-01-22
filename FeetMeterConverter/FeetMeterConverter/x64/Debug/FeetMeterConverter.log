@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Program Files\VS Projects\FeetMeterConverter\FeetMeterConverter\main.cpp(78,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Program Files\VS Projects\FeetMeterConverter\FeetMeterConverter\main.cpp(87,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Program Files\VS Projects\FeetMeterConverter\FeetMeterConverter\main.cpp(58): warning C4715: 'checkSingular': not all control paths return a value
+  FeetMeterConverter.vcxproj -> C:\Program Files\VS Projects\FeetMeterConverter\x64\Debug\FeetMeterConverter.exe
